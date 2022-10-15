@@ -46,4 +46,10 @@ The aim of this project is to make nice looks on an LCD screen with date&time an
 
 ![circuit_photo](https://user-images.githubusercontent.com/80538415/195995066-77be5156-28f7-42af-8ea4-09a26b62d945.png)
 
+## Informations ( Date&Time ) that Gathering from SD Card
+
+![datalog](https://user-images.githubusercontent.com/80538415/195995167-f3477b5f-a461-4fd0-b400-ae892591bf24.png)
+
+* My file name is datalogg.txt
+
 
