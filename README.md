@@ -33,12 +33,12 @@ The aim of this project is to make nice looks on an LCD screen with date&time an
 * MISO -> D12
 * GND -> GND
 
-## Libraries
+## Libraries:
 * AvrI2c_Greiman.h  (for LCD Screen)
 * LiquidCrystal_I2C_AvrI2C.h (for LCD Screen)
 * Wire.h (for Connection)
 * virtuabotixRTC.h (for RTC Module)
 * RTClib.h (for RTC Module)
 * SPI.h (for SD Card)
-* SD.h (for SD Card
+* SD.h (for SD Card)
 
