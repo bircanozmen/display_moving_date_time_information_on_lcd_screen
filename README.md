@@ -42,3 +42,8 @@ The aim of this project is to make nice looks on an LCD screen with date&time an
 * SPI.h (for SD Card)
 * SD.h (for SD Card)
 
+## Circuit Photo
+
+![circuit_photo](https://user-images.githubusercontent.com/80538415/195995066-77be5156-28f7-42af-8ea4-09a26b62d945.png)
+
+
