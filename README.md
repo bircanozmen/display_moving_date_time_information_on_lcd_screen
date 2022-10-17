@@ -7,7 +7,7 @@ The aim of this project is to make nice looks on an LCD screen with date&time an
 * RTC Module - 2 pieces
 * LCD Screen (16x2) - 2 pieces
 * Jumper Cable (Male) - 15 pieces 
-** Arduino Nano - 1 piece
+* Arduino Nano - 1 piece
 * SD card & SD card reader - 1 piece 
 * RTC module battery - 2 pieces
 
